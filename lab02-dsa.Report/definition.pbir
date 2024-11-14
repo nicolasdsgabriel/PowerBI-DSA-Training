@@ -1,0 +1,9 @@
+{
+  "version": "4.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../lab02-dsa.SemanticModel"
+    },
+    "byConnection": null
+  }
+}
